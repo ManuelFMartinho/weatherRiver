@@ -1,2 +1,2 @@
 # weatherRiver
-a exmaple app using riverpod
+a example app using riverpod
